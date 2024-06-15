@@ -5,7 +5,7 @@
 #define	_UNICODE
 #endif	/* _UNICODE */
 #define	STRICT
-#include <windows.h>Å@
+#include <windows.h>
 #include <commctrl.h> 
 #include	<commdlg.h>
 #include <wingdi.h>
