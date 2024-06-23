@@ -6,8 +6,9 @@ JINZO Novel is an easy-to-play digital novel system for Windows CE. You can crea
 
 JINZO Novel は、Windows CE で動作するディジタルノべルシステムです。簡単な操作で、お手軽にプレイ出来ます。また、テキストエディタとお絵描きソフトで簡単にデータを作成出来るので、Windows CE だけでデータの作成を行うことも可能です。
 
-- [Document](./JZNovel-Doc.txt)
-- [Tag Document](./JZNovel_100_TAG_DOC.txt)
+- [Official Website](http://www.tomozon.sakura.ne.jp/wince/)
+- [Documentation](./JZNovel-Doc.txt)
+- [Tag Documentation](./JZNovel_100_TAG_DOC.txt)
 
 ## License
 
